@@ -1,0 +1,4 @@
+{
+	"label": "TOTP Package",
+	"description": "Provides action for time based one time password generation"
+}
